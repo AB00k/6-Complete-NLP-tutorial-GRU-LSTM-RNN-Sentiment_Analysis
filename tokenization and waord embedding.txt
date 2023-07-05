@@ -1,0 +1,18 @@
+Word embedding and tokenization are both important techniques in natural language 
+processing (NLP).
+
+Tokenization is the process of breaking a text into individual tokens or words. This is 
+a fundamental step in NLP because it allows us to analyze text at the word level, 
+rather than treating it as a long string of characters. There are several methods for
+tokenization, including whitespace tokenization, which splits the text on spaces, and 
+word-based tokenization, which splits the text on words.
+
+Word embedding, on the other hand, is a technique used to represent words as dense 
+vectors of real numbers, which can be used as inputs to machine learning models. The 
+idea behind word embedding is to capture the meaning of a word based on its context 
+within a corpus of text. This is typically done using neural network models such as 
+Word2Vec or GloVe.
+
+In summary, tokenization is the process of breaking text into individual words or 
+tokens, while word embedding is a technique for representing words as dense vectors 
+that capture their meaning based on their context in a corpus of text.
